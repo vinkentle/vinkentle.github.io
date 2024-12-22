@@ -113,6 +113,10 @@ body {
     margin-top: 10px;
 }
 
+.underline {
+    text-decoration: none;
+}
+
 .underline:hover {
     text-decoration: underline !important;
 }
