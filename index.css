@@ -96,6 +96,10 @@ body {
     margin: 18px;
 }
 
+.entry a {
+    text-decoration: none;
+}
+
 .descrip {
     font-weight: 200;
     font-size: 13px;
@@ -111,10 +115,6 @@ body {
     font-weight: 200;
     font-size: 15px;
     margin-top: 10px;
-}
-
-.underline {
-    text-decoration: none;
 }
 
 .underline:hover {
